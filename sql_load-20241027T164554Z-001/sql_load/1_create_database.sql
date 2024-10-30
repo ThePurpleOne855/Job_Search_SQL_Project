@@ -1,0 +1,3 @@
+DROP DATABASE postgres
+
+-- DROP DATABASE IF EXISTS sql_course;
